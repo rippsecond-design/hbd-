@@ -1,0 +1,6 @@
+{
+  "name": "Sheba's Birthday Web",
+  "description": "Website interaktif ucapan ulang tahun spesial untuk Shalva Aulia Putri (Sheba) dengan animasi amplop surat, musik, pesan personal, galeri kenangan, dan perayaan konfeti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
